@@ -5,6 +5,15 @@ Go编译会自带一堆信息，通过这些信息基本可以还原Go的源码�
 - 支持AMD64,386架构
 - Go1.13和Go1.16用于解析的数据结构不太一样，但这款工具都支持
 
+支持消除/混淆
+- 函数名称
+- 函数路径
+- Go Struct
+- Type
+- Go Compiler Version
+- Go BuildID
+- Go Root Path
+
 ## Useage
 go编译出二进制，
 ```
