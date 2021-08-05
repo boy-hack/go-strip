@@ -14,8 +14,6 @@ Go编译会自带一堆信息，通过这些信息基本可以还原Go的源码�
 - Go BuildID
 - Go Root Path
 
-注意:使用此工具后将无法使用go的反射特性
-
 ## Useage
 go编译出二进制，
 ```
