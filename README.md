@@ -52,4 +52,4 @@ new.exe即是混淆后的二进制文件
 - https://mp.weixin.qq.com/s?__biz=MzU2NzcwNTY3Mg==&mid=2247484130&idx=1&sn=d482026bcd9d74b4b5bb5a62f02af10e&chksm=fc986bc5cbefe2d3e74ac3e892c10e9c65f968ac32bfbd3b0f373e09fe65c39f58ea3e62107f&token=1662333611&lang=zh_CN#rd
 
 ## 代码
-代码已开源，关注公众号 "Hacking就是好玩" 回复 知识星球 即可获取
+代码已开源，https://t.zsxq.com/6IurbMR
