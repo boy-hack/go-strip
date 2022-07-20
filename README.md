@@ -3,11 +3,11 @@ Go编译会自带一堆信息，通过这些信息基本可以还原Go的源码�
 
 - 支持Go编译的 Windows、Mac、Linux程序
 - 支持AMD64,386架构
-- Go1.13和Go1.16用于解析的数据结构不太一样，但这款工具都支持
+- 支持go全版本 1.13~1.18
 
 支持消除/混淆
-- 函数名称
-- 函数路径
+- function
+- filename
 - Go Struct
 - Type
 - Go Compiler Version
