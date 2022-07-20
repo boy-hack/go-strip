@@ -13,6 +13,8 @@ Go编译会自带一堆信息，通过这些信息基本可以还原Go的源码�
 - Go Compiler Version
 - Go BuildID
 - Go Root Path
+- Go ModInfo
+- Go Complie Paramter
 
 ## Useage
 go编译出二进制，
